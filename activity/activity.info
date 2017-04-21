@@ -1,0 +1,7 @@
+[Activity]
+name = SuperVampireNinjaZero
+service_name = com.batovi.SuperVampireNinjaZero
+icon = SuperVampireNinjaZero
+activity_version = 1
+show_launcher = yes
+exec = sugarSuperVampireNinjaZero
